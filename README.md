@@ -1,5 +1,6 @@
 # 🚀qiyao-12306
-## 项目尝鲜地址: http://43.139.227.202/ticketSearch
+## 项目尝鲜地址: 
+http://43.139.227.202/ticketSearch
 ## 📓项目简介
 12306 铁路购票服务是与大家生活和出行相关的关键系统，本项目使用 SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务;
 ## 🕹️项目版本
